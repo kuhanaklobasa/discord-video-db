@@ -1,0 +1,62 @@
+body {
+    color: #FFFFF7 !important;
+    background-color: #282b30 !important;
+}
+.navbar {
+    background-color: #7289da !important;
+}
+.nav-link {
+    color: #FFFFF7 !important;
+}
+.hero {
+    color: #FFFFF7 !important;
+}
+.btn {
+    background-color:#7289da !important;
+}
+.card {
+    background-color: #36393e !important;
+}
+.btn2 {
+    background-color: #36393e !important;
+    color: #7289da !important;
+}
+.fas {
+    font-size: 40px !important;
+    float: left;
+    margin-bottom: 15px;
+}
+.avatar {
+    margin-left: 5px;
+    width: 32px;
+    height: 32px;
+}
+.profile-card {
+    width: 80vw;
+    height: 80vh;
+}
+.profile-name {
+    margin-left: 20px;
+}
+.logout {
+    width: 150px;
+    justify-content: right;
+    font-size: 20px !important;
+    background-color: #ed4245 !important;
+}
+.inner-profile {
+    display: flex;
+    align-items: center;
+    background-color: #36393e;
+    padding: 20px;
+}
+.inner-profile > h5 {
+    width: 100%;
+}
+.outer-profile {
+    background-color: #3c3f43;
+}
+.profile-a {
+    text-decoration: none !important;
+    color: #FFFFF7 !important
+}
